@@ -1,4 +1,5 @@
 # RvKernel-Linux
+RvKernel Linux is a custom Linux kernel, a fork of [CachyOS](https://github.com/CachyOS/linux-cachyos) kernel
 
 ### Available Schedulers
 | Scheduler | Full Name | Package(s) | Best for... | Developer |
