@@ -9,21 +9,39 @@ RvKernel Linux is a custom Linux kernel, a fork of [CachyOS](https://github.com/
 
 ### Installation
 - Install the kernel
+
 ```yay -S linux-rvkernel-bore-clang```
+
 or
+
 ```yay -S linux-rvkernel-bore-gcc```
+
 ---------------------------------------
+
 - Install the headers (optional)
+
 ```yay -S linux-rvkernel-bore-headers-clang```
+
 or
+
 ```yay -S linux-rvkernel-bore-headers-gcc```
+
 ---------------------------------------
+
 - Install the NVIDIA driver (optional)
+
 ```yay -S linux-rvkernel-bore-nvidia-open-clang```
+
 or
+
 ```yay -S linux-rvkernel-bore-nvidia-open-gcc```
+
 ---------------------------------------
+
 - Install the LFS driver (optional)
+
 ```yay -S linux-rvkernel-bore-lfs-clang```
+
 or
+
 ```yay -S linux-rvkernel-bore-lfs-gcc```
